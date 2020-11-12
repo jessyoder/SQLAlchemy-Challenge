@@ -4,11 +4,11 @@ I've decided to treat myself to a long holiday vacation in Honolulu, Hawaii! To 
 
 ## Step 1 - Climate Analysis and Exploration
 
-* I chose a start date and end date for your trip, December 23-31.
+* I chose a start date and end date for my trip, December 23-31.
 
 ### Precipitation Analysis
 
-* I designecd a query to retrieve the last 12 months of precipitation data, collected the summary statistics, and plotted the results.
+* I designed a query to retrieve the last 12 months of precipitation data, collected the summary statistics, and plotted the results.
 
 ### Station Analysis
 
